@@ -1,0 +1,5 @@
+numpy>=1.24
+Pillow>=10.0
+reportlab>=4.0
+# Optional – needed only to compile the real Cython extension
+# Cython>=3.0
